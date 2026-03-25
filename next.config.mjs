@@ -1,11 +1,11 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  typescript: {
-    ignoreBuildErrors: true,
-  },
+  output: 'export',
   images: {
     unoptimized: true,
   },
+  basePath: '/trionyx-portfolio',
+  assetPrefix: '/trionyx-portfolio/',
 }
 
 export default nextConfig

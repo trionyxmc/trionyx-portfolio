@@ -153,6 +153,13 @@ const testimonials = [
     rating: 5,
     text: "Quería pasar por aquí para darles las gracias de verdad. Ser el owner de Dragocraft es un reto, pero con la mano que me han echado todo fluye mucho mejor Se la rifaron con el tema de los mods y los plugins, el servidor va muy sólido. Pero lo que más me tiene contento es cómo quedó la economía y lo bien que se ven los menús personalizados. Sé que configurar todo eso toma tiempo y cansa, pero se nota el cariño que le ponen. Gracias por creer en el proyecto y por ayudarme a que esto no sea un servidor más, sino algo de lo que todos estemos orgullosos A seguir dándole con todo",
   },
+  {
+    name: "ヽHoney﹒",
+    role: "Owner de ChillMon",
+    avatar: "https://mc-heads.net/avatar/Kaleesimin/100",
+    rating: 5,
+    text: "Muy buen trabajo, rápido y eficaz, además de precios accesibles @Trionyx gracias por el trabajo hecho ⭐️⭐️⭐️⭐️⭐️",
+  },
 ]
 
 function shuffleArray<T>(array: T[]): T[] {
